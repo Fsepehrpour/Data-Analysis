@@ -4,3 +4,6 @@
 [submodule "Stock-Data-Analysis"]
 	path = Stock-Data-Analysis
 	url = https://github.com/Fsepehrpour/Stock-Data-Analysis.git
+[submodule "Recession-Impact-on-AutomobileSales"]
+	path = Recession-Impact-on-AutomobileSales
+	url = https://github.com/Fsepehrpour/Recession_Impact_on_AutomobileSales.git
